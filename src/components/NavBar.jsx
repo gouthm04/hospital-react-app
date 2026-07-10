@@ -18,7 +18,7 @@ const NavBar = () => {
                             
                             <Link className="nav-link" to="/">Register Patient</Link>
                             <Link className="nav-link" to="/search">Search Patient</Link>
-                            <Link className="nav-link" to="/">Delete Patient</Link>
+                            <Link className="nav-link" to="/delete">Delete Patient</Link>
                             <Link className="nav-link" to="/view">View Patient</Link>
                             
                             
